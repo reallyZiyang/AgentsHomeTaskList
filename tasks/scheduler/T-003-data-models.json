@@ -16,7 +16,7 @@
     "日志表创建成功",
     "基础CRUD操作正常"
   ],
-  "status": "pending",
+  "status": "completed",
   "timeEstimate": 10,
   "type": "feature"
 }

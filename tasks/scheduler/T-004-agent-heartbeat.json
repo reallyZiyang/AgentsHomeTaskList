@@ -16,7 +16,7 @@
     "Agent状态正确更新",
     "超时Agent自动离线"
   ],
-  "status": "pending",
+  "status": "completed",
   "timeEstimate": 15,
   "type": "feature"
 }
