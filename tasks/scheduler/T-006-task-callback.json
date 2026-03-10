@@ -16,7 +16,7 @@
     "任务状态正确更新",
     "日志记录完整"
   ],
-  "status": "pending",
+  "status": "completed",
   "timeEstimate": 10,
   "type": "feature"
 }

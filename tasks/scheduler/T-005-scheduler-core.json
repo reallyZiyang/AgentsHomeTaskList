@@ -16,7 +16,7 @@
     "任务分配给最优Agent",
     "防止任务重复分配"
   ],
-  "status": "pending",
+  "status": "completed",
   "timeEstimate": 15,
   "type": "feature"
 }
